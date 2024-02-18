@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SociopathClient/static/css/main.10eb3f2c.css",
+    "main.js": "/SociopathClient/static/js/main.d1cf5b73.js",
+    "index.html": "/SociopathClient/index.html",
+    "main.10eb3f2c.css.map": "/SociopathClient/static/css/main.10eb3f2c.css.map",
+    "main.d1cf5b73.js.map": "/SociopathClient/static/js/main.d1cf5b73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10eb3f2c.css",
+    "static/js/main.d1cf5b73.js"
+  ]
+}
